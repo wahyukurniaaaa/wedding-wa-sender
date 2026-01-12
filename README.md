@@ -1,10 +1,20 @@
 # 💒 Wedding WA Sender
 
-Aplikasi pengiriman undangan pernikahan via WhatsApp secara massal maupun manual. Dibangun dengan Laravel 12 dan terintegrasi dengan [WAHA (WhatsApp HTTP API)](https://waha.devlike.pro/).
+<p align="center">
+  <img src="assets/thumbnail.png" alt="Wedding WA Sender Banner" width="100%">
+</p>
 
-![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <strong>Aplikasi pengiriman undangan pernikahan via WhatsApp secara massal maupun manual.</strong><br>
+  Dibangun dengan Laravel 12 dan terintegrasi dengan <a href="https://waha.devlike.pro/">WAHA (WhatsApp HTTP API)</a>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/WhatsApp-API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</p>
 
 ---
 
