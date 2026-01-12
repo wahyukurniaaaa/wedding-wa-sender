@@ -1,24 +1,56 @@
-*.log
-.DS_Store
+# Environment & Secrets
 .env
 .env.backup
 .env.production
-.phpactor.json
-.phpunit.result.cache
+/auth.json
+
+# IDE & Editor
 /.fleet
 /.idea
 /.nova
-/.phpunit.cache
 /.vscode
 /.zed
-/auth.json
+.phpactor.json
+
+# Dependencies
 /node_modules
+/vendor
+
+# Build & Cache
 /public/build
 /public/hot
 /public/storage
+/.phpunit.cache
+.phpunit.result.cache
+
+# Storage
 /storage/*.key
 /storage/pail
-/vendor
+/storage/logs/*.txt
+
+# Laravel
+*.log
 Homestead.json
 Homestead.yaml
+
+# OS Files
+.DS_Store
 Thumbs.db
+
+# ===========================================
+# SENSITIVE DATA - SANGAT PENTING!
+# ===========================================
+
+# WAHA WhatsApp Sessions (KRITIS - jangan sampai ter-upload!)
+/sessions/
+sessions/
+
+# Temporary uploaded files
+/storage/app/private/temp/
+
+# Database files
+*.sqlite
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+/database/*.sqlite
