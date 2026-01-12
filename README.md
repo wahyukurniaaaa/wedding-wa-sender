@@ -1,4 +1,4 @@
-# 💒 WA-Invitation
+# 💒 Wedding WA Sender
 
 Aplikasi pengiriman undangan pernikahan via WhatsApp secara massal maupun manual. Dibangun dengan Laravel 12 dan terintegrasi dengan [WAHA (WhatsApp HTTP API)](https://waha.devlike.pro/).
 
@@ -67,8 +67,8 @@ Atau lihat dokumentasi lengkap di: https://waha.devlike.pro/docs/how-to/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/wa-invitation.git
-cd wa-invitation
+git clone https://github.com/wahyukurniaaaa/wedding-wa-sender.git
+cd wedding-wa-sender
 ```
 
 ### 2. Install Dependencies
@@ -225,7 +225,7 @@ Download template langsung dari aplikasi dengan klik tombol **"Download Template
 ## 📁 Struktur Proyek
 
 ```
-wa-invitation/
+wedding-wa-sender/
 ├── app/
 │   ├── Exports/
 │   │   └── WaInvitationTemplateExport.php  # Template Excel
